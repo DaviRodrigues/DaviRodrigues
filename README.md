@@ -15,6 +15,6 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedark860)](https://github.com/zedark860/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedark860&show_icons=true&theme=dracula)](https://github.com/zedark860/github-readme-stats)
 
 Atualmente se desenvolvendo como futuro dev e estudando sobre Desenvolvimento Web.
