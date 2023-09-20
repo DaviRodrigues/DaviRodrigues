@@ -1,6 +1,6 @@
 ### Olá! Sou Davi Nascimento 🤓
 
-![zedark860 GitHub stats](https://github-readme-stats.vercel.app/api?username=zedark860&show_icons=true&theme=dracula)
+![zedark860 GitHub stats](https://github-readme-stats.vercel.app/api?username=zedark860&show_icons=true&theme=dracula) 
 
 ### Tecnologias que utilizo
 
@@ -14,4 +14,7 @@
     <img style="border-radius: 15px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedark860)](https://github.com/zedark860/github-readme-stats)
+
 Atualmente se desenvolvendo como futuro dev e estudando sobre Desenvolvimento Web.
