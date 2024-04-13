@@ -32,4 +32,4 @@
 
 <br>
 
-<p align='center';>Atualmente se desenvolvendo como futuro dev e estudando sobre Backend e Front End.</p>
+<p align='center';>Atualmente se desenvolvendo como futuro dev e estudando sobre Backend</p>
