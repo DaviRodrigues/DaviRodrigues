@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>&nbsp;
 
-<p align="center">I'm a Systems Analyst and Developer passionate about technology and always eager to tackle exciting challenges. As someone relatively new to the field, I'm constantly committed to learning and expanding my knowledge, especially through undertaking projects that integrate software engineering concepts. I'm dedicated to extracting the maximum learning experience, combining technical skills with a hands-on approach, and constantly seeking to improve my abilities.</p>&nbsp;
+<p align="center">Hello my name is Davi!<br><br>I'm a Systems Analyst and Developer passionate about technology and always eager to tackle exciting challenges. As someone relatively new to the field, I'm constantly committed to learning and expanding my knowledge, especially through undertaking projects that integrate software engineering concepts. I'm dedicated to extracting the maximum learning experience, combining technical skills with a hands-on approach, and constantly seeking to improve my abilities.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zedark860&theme=radical&mode=weekly" />
