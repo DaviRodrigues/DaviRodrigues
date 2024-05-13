@@ -1,9 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F9796&height=120&section=header"/>&nbsp;
 
-<p align="center">Hello my name is Davi!<br><br>I'm a Systems Analyst and Developer passionate about technology and always eager to tackle exciting challenges. As someone relatively new to the field, I'm constantly committed to learning and expanding my knowledge, especially through undertaking projects that integrate software engineering concepts. I'm dedicated to extracting the maximum learning experience, combining technical skills with a hands-on approach, and constantly seeking to improve my abilities.</p>&nbsp;
+<p align="center">
+Olá, meu nome é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor apaixonado por tecnologia e sempre ansioso para enfrentar desafios emocionantes. Como alguém relativamente novo na área, estou constantemente comprometido com a aprendizagem e a expansão do meu conhecimento, especialmente por meio de projetos que integram conceitos de engenharia de software. Estou dedicado a extrair a máxima experiência de aprendizado, combinando habilidades técnicas com uma abordagem prática e buscando constantemente aprimorar minhas habilidades.
+</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img src="https://github-readme-stats.vercel.app/api?username=Diegiwg&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" width="380" /><span>&nbsp;&nbsp;&nbsp;</span><img src="https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" width="380" />
+<img src="https://github-readme-stats.vercel.app/api?username=zedark860&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" width="380" /><span>&nbsp;&nbsp;&nbsp;</span><img src="https://github-readme-streak-stats.herokuapp.com?user=zedark860&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" width="380" />
  </div>
  
  &nbsp;
@@ -11,9 +13,9 @@
 
 
 
-## My Skills
+## Minhas Skills
 
-#### Main Stack:
+#### Tecnologias principais:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -23,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+#### Tecnologias secundárias:
 
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -31,7 +33,7 @@
 ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Estudando no momento:
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -45,7 +47,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Ferramentas de trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
@@ -57,14 +59,14 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 
 <div> 
-<a href = "mailto:davinascimentold.860@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href= "https://www.linkedin.com/in/davi-nascimento-8045a1297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+- <img src="assets/envelope.svg" width="14" /> Email: [davinascimentold.860@gmail.com](mailto:davinascimentold.860@gmail.com)
+- <img src="assets/whatsapp.svg" width="14" /> WhatsApp: [+55 (32) 98459-8541](https://wa.me/5532984598541)
+- <img src="assets/linkedin.svg" width="14" /> Linked-in: [Davi Nascimento Rodrigues](https://www.linkedin.com/in/davi-nascimento-8045a1297/?profileId=ACoAAEfP4UQBTlt-s6FpRf9iS2G6dhbZmEgQbP4)
+- <img src="assets/discord.svg" width="14" /> Discord: [ze_dark_860](#Discord)
+- <img src="assets/diamond.svg" width="14" /> Curriculo: [PDF](https://diegiwg.github.io/Diegiwg/public/Curriculo%20Diego%20Queiroz%20-%20v3.pdf)
 </div>&nbsp;&nbsp;
- 
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F9796&height=120&section=footer"/>
