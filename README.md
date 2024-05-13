@@ -3,8 +3,7 @@
 <p align="center">Hello my name is Davi!<br><br>I'm a Systems Analyst and Developer passionate about technology and always eager to tackle exciting challenges. As someone relatively new to the field, I'm constantly committed to learning and expanding my knowledge, especially through undertaking projects that integrate software engineering concepts. I'm dedicated to extracting the maximum learning experience, combining technical skills with a hands-on approach, and constantly seeking to improve my abilities.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=zedark860&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=zedark860&show_icons=true&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Diegiwg&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" width="380" /><span>&nbsp;&nbsp;&nbsp;</span><img src="https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" width="380" />
  </div>
  
  &nbsp;
