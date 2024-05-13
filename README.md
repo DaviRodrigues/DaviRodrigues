@@ -62,11 +62,11 @@ Olá, meu nome é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor apaixonad
 ## Contatos:
 
 <div> 
-- <img src="assets/envelope.svg" width="14" /> Email: [davinascimentold.860@gmail.com](mailto:davinascimentold.860@gmail.com)
-- <img src="assets/whatsapp.svg" width="14" /> WhatsApp: [+55 (32) 98459-8541](https://wa.me/5532984598541)
-- <img src="assets/linkedin.svg" width="14" /> Linked-in: [Davi Nascimento Rodrigues](https://www.linkedin.com/in/davi-nascimento-8045a1297/?profileId=ACoAAEfP4UQBTlt-s6FpRf9iS2G6dhbZmEgQbP4)
-- <img src="assets/discord.svg" width="14" /> Discord: [ze_dark_860](#Discord)
-- <img src="assets/diamond.svg" width="14" /> Curriculo: [PDF](https://diegiwg.github.io/Diegiwg/public/Curriculo%20Diego%20Queiroz%20-%20v3.pdf)
+- <img src="assets/envelope.svg" width="14" /> Email: <a href="mailto:davinascimentold.860@gmail.com">davinascimentold.860@gmail.com</a><br>
+- <img src="assets/whatsapp.svg" width="14" /> WhatsApp: <a href="https://wa.me/5532984598541">+55 (32) 98459-8541</a><br>
+- <img src="assets/linkedin.svg" width="14" /> LinkedIn: <a href="https://www.linkedin.com/in/davi-nascimento-8045a1297/?profileId=ACoAAEfP4UQBTlt-s6FpRf9iS2G6dhbZmEgQbP4">Davi Nascimento Rodrigues</a><br>
+- <img src="assets/discord.svg" width="14" /> Discord: ze_dark_860<br>
+- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://diegiwg.github.io/Diegiwg/public/Curriculo%20Diego%20Queiroz%20-%20v3.pdf">PDF</a>
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F9796&height=120&section=footer"/>
