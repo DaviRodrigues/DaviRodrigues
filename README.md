@@ -11,6 +11,15 @@ Olá, meu nome é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor apaixonad
  &nbsp;
  &nbsp;
 
+## Contatos:
+
+<div> 
+- <img src="assets/envelope.svg" width="14" /> Email: <a href="mailto:davinascimentold.860@gmail.com">davinascimentold.860@gmail.com</a><br>
+- <img src="assets/whatsapp.svg" width="14" /> WhatsApp: <a href="https://wa.me/5532984598541">+55 (32) 98459-8541</a><br>
+- <img src="assets/linkedin.svg" width="14" /> LinkedIn: <a href="https://www.linkedin.com/in/davi-nascimento-rodrigues-8045a1297/">Davi Nascimento Rodrigues</a><br>
+- <img src="assets/discord.svg" width="14" /> Discord: ze_dark_860<br>
+- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://github.com/zedark860/zedark860/blob/main/public/Davi_Nascimento_Rodrigues%20-%20Curr%C3%ADculo%20v3.pdf">PDF</a>
+</div>
 
 <h2 align="center">
 Minhas Skills
@@ -64,19 +73,5 @@ Minhas Skills
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;
 </p>
-
-
-&nbsp;
-&nbsp;
-
-## Contatos:
-
-<div> 
-- <img src="assets/envelope.svg" width="14" /> Email: <a href="mailto:davinascimentold.860@gmail.com">davinascimentold.860@gmail.com</a><br>
-- <img src="assets/whatsapp.svg" width="14" /> WhatsApp: <a href="https://wa.me/5532984598541">+55 (32) 98459-8541</a><br>
-- <img src="assets/linkedin.svg" width="14" /> LinkedIn: <a href="https://www.linkedin.com/in/davi-nascimento-rodrigues-8045a1297/">Davi Nascimento Rodrigues</a><br>
-- <img src="assets/discord.svg" width="14" /> Discord: ze_dark_860<br>
-- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://github.com/zedark860/zedark860/blob/main/public/Davi_Nascimento_Rodrigues%20-%20Curr%C3%ADculo%20v3.pdf">PDF</a>
-</div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F9796&height=80&section=footer"/>
