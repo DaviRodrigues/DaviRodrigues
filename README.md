@@ -18,7 +18,7 @@ Olá, meu nome é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor apaixonad
 - <img src="assets/whatsapp.svg" width="14" /> WhatsApp: <a href="https://wa.me/5532984598541">+55 (32) 98459-8541</a><br>
 - <img src="assets/linkedin.svg" width="14" /> LinkedIn: <a href="https://www.linkedin.com/in/davi-nascimento-rodrigues-8045a1297/">Davi Nascimento Rodrigues</a><br>
 - <img src="assets/discord.svg" width="14" /> Discord: ze_dark_860<br>
-- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://github.com/zedark860/zedark860/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v4.pdf">PDF</a>
+- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://github.com/zedark860/zedark860/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v5.pdf">PDF</a>
 </div>
 
 <h2 align="center">
@@ -30,7 +30,7 @@ Minhas Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">&nbsp;
- <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">&nbsp;
