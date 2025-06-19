@@ -18,7 +18,7 @@ Olá, meu nome é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor apaixonad
 - <img src="assets/whatsapp.svg" width="14" /> WhatsApp: <a href="https://wa.me/5532984598541">+55 (32) 98459-8541</a><br>
 - <img src="assets/linkedin.svg" width="14" /> LinkedIn: <a href="https://www.linkedin.com/in/davi-nascimento-rodrigues-8045a1297/">Davi Nascimento Rodrigues</a><br>
 - <img src="assets/discord.svg" width="14" /> Discord: ze_dark_860<br>
-- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://github.com/zedark860/zedark860/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v7.pdf">PDF</a>
+- <img src="assets/diamond.svg" width="14" /> Currículo: <a href="https://github.com/DaviRodrigues/DaviRodrigues/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v8.pdf">PDF</a>
 </div>
 
 <h2 align="center">
