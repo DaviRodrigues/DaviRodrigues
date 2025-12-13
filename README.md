@@ -1,5 +1,5 @@
 <p align="center">
-Olá, meu nome é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor apaixonado por tecnologia, sempre ansioso para enfrentar desafios emocionantes. Como alguém relativamente novo na área, estou constantemente comprometido com a aprendizagem e a expansão do meu conhecimento, ando dedicado a extrair a máxima experiência de aprendizado, combinando habilidades técnicas com uma abordagem prática, buscando constantemente me aprimorar.
+Olá, me chamo é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor Full Stack com foco em backend, experiência em construção e consumo de APIs RESTful, integração entre sistemas, automações e modelagem de bancos de dados. Atuo com Node.js/Javascript, Python, Go, Docker, Postgres, MongoDB e metodologias ágeis. Experiência prática em integrações, bots, ferramentas internas e soluções internas de T.I em ambientes corporativos (prefeitura e empresas privadas).
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -37,16 +37,21 @@ Minhas Skills
 #### Tecnologias secundárias:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="Php">&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">&nbsp;
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">&nbsp;
-   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">&nbsp;
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
 </p>
+
+
 
 #### Databases:
 
