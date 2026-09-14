@@ -1,65 +1,81 @@
+<div align="center">
+
+# Olá, eu sou o Davi 👋
+
+**Analista de Sistemas & Desenvolvedor Backend / DevOps**
+
+Desenvolvedor focado na construção e consumo de APIs RESTful, automações, arquitetura de microsserviços, modelagem de dados e infraestrutura. Experiência prática no desenvolvimento de integrações, bots e soluções corporativas internas (setor público e corporativo privado).
+
 <p align="center">
-Olá, me chamo é Davi<br><br>Sou Analista de Sistemas e Desenvolvedor Full Stack com foco em backend, experiência em construção e consumo de APIs RESTful, integração entre sistemas, automações e modelagem de bancos de dados. Atuo com Node.js/Javascript, Python, Go, Docker, Postgres, MongoDB e metodologias ágeis. Experiência prática em integrações, bots, ferramentas internas e soluções internas de T.I em ambientes corporativos (prefeitura e empresas privadas).
-</p>&nbsp;
+  <a href="mailto:davinascimentold.860@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/davi-nascimento-rodrigues-8045a1297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5532984598541">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/DaviRodrigues/DaviRodrigues/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v9.pdf">
+    <img src="https://img.shields.io/badge/Currículo_PDF-ED2224?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
+  </a>
+</p>
 
-<div  align="center" style="margin-bottom:100px">
-<span>&nbsp;&nbsp;&nbsp;</span><img src="https://github-readme-streak-stats.herokuapp.com?user=DaviRodrigues&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" width="380" />
- </div>
- 
- &nbsp;
- &nbsp;
+---
 
-## Contatos:
+### 📊 Estatísticas
 
-<div> 
-- Email: <a href="mailto:davinascimentold.860@gmail.com">davinascimentold.860@gmail.com</a><br>
-- WhatsApp: <a href="https://wa.me/5532984598541">+55 (32) 98459-8541</a><br>
-- LinkedIn: <a href="https://www.linkedin.com/in/davi-nascimento-rodrigues-8045a1297/">Davi Nascimento Rodrigues</a><br>
-- Currículo: <a href="https://github.com/DaviRodrigues/DaviRodrigues/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v9.pdf">PDF</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DaviRodrigues&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" alt="Streak Stats" />
+
+---
+
+### 🛠️ Stack & Tecnologias
+
 </div>
 
-<h2 align="center">
-Minhas Skills
-</h2>
-
-#### Tecnologias principais:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">&nbsp;
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="Php">&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
+#### 💻 Linguagens de Programação
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-#### Tecnologias secundárias:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">&nbsp;
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">&nbsp;
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">&nbsp;
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
+#### ⚙️ Frameworks, Bibliotecas & Runtimes
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+#### 🚀 DevOps & Infraestrutura
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
 
+#### 🗄️ Bancos de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-#### Databases:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGresSQL">&nbsp;
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">&nbsp;
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
+#### 🧰 Ferramentas de Suporte
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
