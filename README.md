@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Davi 👋
+# Olá, eu sou o Davi!
 
 **Analista de Sistemas & Desenvolvedor Backend / DevOps**
 
@@ -16,7 +16,7 @@ Desenvolvedor focado na construção e consumo de APIs RESTful, automações, ar
   <a href="https://wa.me/5532984598541">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/DaviRodrigues/DaviRodrigues/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v9.pdf">
+  <a href="https://github.com/DaviRodrigues/DaviRodrigues/blob/main/public/Davi%20Nascimento%20Rodrigues%20-%20Curr%C3%ADculo%20v14.docx.pdf">
     <img src="https://img.shields.io/badge/Currículo_PDF-ED2224?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
   </a>
 </p>
@@ -25,6 +25,7 @@ Desenvolvedor focado na construção e consumo de APIs RESTful, automações, ar
 
 ### 📊 Estatísticas
 
+<img src="https://github-stats-extended.vercel.app/api?username=DaviRodrigues&theme=transparent" alt="Github Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DaviRodrigues&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" alt="Streak Stats" />
 
 ---
